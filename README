@@ -1,0 +1,11 @@
+Run the class gui/MainFrame as Java Application in order to start the program.
+
+
+When you are logged in you can "Show dogs" in order to look at dogs on sale. This function shows all dogs stored in the program except yours.
+
+You can also create, delete and edit your dogs through the "DogSniffing" button.
+You will be able to view all dogs in that menu except for your own.
+
+You can create a user and log in with that user.
+For testing purposes, you can log in as a moderator user Puppylover123 1234
+
